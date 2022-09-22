@@ -1,0 +1,22 @@
+<header>
+    <div class="container">
+        <div id="brand">
+            <a href="/">
+                <img src="/images/logo.svg" alt="Café Kopfbau Logo">
+            </a>
+        </div>
+        <nav>
+            <ul class="no-list">
+                <li>
+                    <a href="{{ if not .IsHome }}/{{ end }}#about">Das Café</a>
+                </li>
+                <li>
+                    <a href="{{ if not .IsHome }}/{{ end }}#events">Events</a>
+                </li>
+                <li>
+                    <a href="{{ if not .IsHome }}/{{ end }}#contact">Schreib uns!</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</header>

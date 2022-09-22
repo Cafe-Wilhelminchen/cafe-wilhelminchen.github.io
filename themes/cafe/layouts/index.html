@@ -1,0 +1,29 @@
+{{ define "main" }}
+<section id="title">
+    <div class="inline-svg" data-src="images/cafe-text.svg"></div>
+</section>
+<div class="container">
+    {{ range where .Pages "Params.main" true }}
+    <section id="{{ .File.BaseFileName }}">
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Content }}</p>
+    </section>
+    {{ end }}
+    {{ $contactSection := "contact" }}
+    {{ with .GetPage $contactSection }}
+    <section id="{{ $contactSection }}">
+        <h2>{{ .Title }}</h2>
+        <div>
+            <div>
+                <p>{{ .Content }}</p>
+                {{ range .Pages }}
+                <h3>{{ .Title }}</h3>
+                <p>{{ .Content }}</p>
+                {{ end }}
+            </div>
+            {{- partial "contact-form.html" . -}}
+        </div>
+    </section>
+    {{ end }}
+</div>
+{{ end }}

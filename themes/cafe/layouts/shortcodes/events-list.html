@@ -1,0 +1,25 @@
+<div>
+    {{ range $.Site.Data.events }}
+    <article>
+        <div class="event">
+            {{ if isset . "image" }}
+            <div class="event-image">
+                <img src="{{- .image -}}" alt="event image">
+            </div>
+            {{ end }}
+            <div class="event-info">
+                <h3>{{- .name -}}</h3>
+                <ul class="no-list">
+                    <li>
+                        <svg xmlns:xlink="http://www.w3.org/1999/xlink" fill="currentColor">
+                            <use xlink:href="images/icons.svg#calendar"/>
+                        </svg>
+                        {{- .datetime -}}
+                    </li>
+                </ul>
+                <p>{{- .description -}}</p>
+            </div>
+        </div>
+    </article>
+    {{ end }}
+</div>

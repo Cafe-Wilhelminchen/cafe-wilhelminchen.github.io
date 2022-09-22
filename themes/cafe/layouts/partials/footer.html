@@ -1,0 +1,33 @@
+<footer>
+    <div class="container">
+        <div id="social-links">
+            <p>
+                Folgt uns in den sozialen Netzwerken:
+            </p>
+            <ul class="no-list">
+                {{ range $.Site.Data.socials }}
+                <li>
+                    <a href="{{ .link }}" title="{{ .name }}">
+                        <svg xmlns:xlink="http://www.w3.org/1999/xlink" fill="currentColor">
+                            <use xlink:href="/images/icons.svg#{{ .icon }}"/>
+                        </svg>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        <div id="legal">
+            <p>
+                &copy; 2022 Café Kopfbau &ndash; Café Theme created by
+                <a href="https://kaes3kuch3n.de/" class="author">Luis Hankel</a>
+            </p>
+            <ul class="no-list">
+                {{ range (.GetPage "legal").Pages }}
+                <li>
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</footer>

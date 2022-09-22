@@ -1,0 +1,12 @@
+name = "Cafe Kopfbau"
+license = "MIT"
+licenselink = "https://github.com/Kaes3kuch3n/cafe-kopfbau-theme/blob/master/LICENSE"
+description = "Theme for the website of the student cafe at HTW Berlin"
+homepage = "https://cafe.students-htw.de/"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+name = "Luis Hankel"
+homepage = "https://kaes3kuch3n.de/"

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="de">
+{{- partial "head.html" . -}}
+<body>
+    {{- partial "header.html" . -}}
+    <main>
+        {{- block "main" . }}{{- end }}
+    </main>
+    {{- partial "footer.html" . -}}
+    <script src="/js/inline-svg.js" type="application/javascript"></script>
+    <script src="/js/contact-form.js" type="application/javascript"></script>
+    <script src="/js/event-calendar.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+baseURL = 'https://cafe.students-htw.de/'
+languageCode = 'de-de'
+title = 'Café Kopfbau – HTW Berlin'
+theme = 'cafe'

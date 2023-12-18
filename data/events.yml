@@ -1,7 +1,4 @@
-- name: Semesterstart-Party
-  datetime: 01.04.2022, ab 18 Uhr
-  description: Bock auf Party zum Auftakt des neuen Semesters? Komm rum! Gibt auch Freibier für die ersten 100 Gäste :P
-
-- name: Paint-Party
-  datetime: 21.05.2022, ab 15 Uhr
-  description: Sommer, feiern, bla bla bla... Alkohol, saufen, free shots!
+- name: Christmas Rave
+  datetime: 21.12.2023, ab 20 Uhr
+  description: Zum Abschluss des Jahres und zur Neugründung des Café-Teams veranstalten wir einen kleine Weihnachtsfeier. Mit Techno-Rave im blauen Salon und Chillout-Lounge im roten Salon.
+  image: images/christmas-party.jpg

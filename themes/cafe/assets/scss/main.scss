@@ -93,6 +93,7 @@ header {
 
   #brand {
     max-width: 100%;
+    flex: 1 0;
 
     img {
       display: inline-block;
@@ -114,6 +115,56 @@ header {
         color: $blue;
         font-size: 1.2em;
         font-weight: bold;
+      }
+    }
+  }
+
+  #menu-checkbox {
+    display: none;
+  }
+
+  #menu-button {
+    z-index: 10;
+    display: none;
+    flex-direction: column;
+    justify-content: space-evenly;
+    position: relative;
+
+    $menu-button-line-spacing: 0.45em;
+
+    span, span::before, span::after {
+      display: block;
+      content: "";
+      width: 2em;
+      height: 2px;
+      background: $green;
+      border-radius: 2px;
+    }
+
+    span::before {
+      position: absolute;
+      top: 1em;
+    }
+
+    span::after {
+      position: absolute;
+      bottom: 1em;
+    }
+
+    &:has(input:checked) {
+      span {
+        height: 0;
+      }
+
+      span::before {
+        position: initial;
+        transform: rotate(45deg);
+      }
+
+      span::after {
+        position: initial;
+        margin-top: -2px;
+        transform: rotate(-45deg);
       }
     }
   }
@@ -457,12 +508,30 @@ svg {
 
 @media screen and (max-width: 768px) {
   header .container {
-    max-height: 5em;
+    $header-height: 5em;
+    max-height: $header-height;
 
     nav {
       display: none;
-      // TODO: Add mobile navigation
+      position: absolute;
+      inset: 0 0 0 auto;
+      padding-block: $header-height;
+      background: $white;
+      z-index: 1;
+
+      ul {
+        flex-direction: column;
+        gap: 2em;
+      }
     }
+
+    #menu-button {
+      display: flex;
+    }
+  }
+
+  #menu-button:has(input:checked) + nav {
+    display: block;
   }
 
   main {

@@ -69,12 +69,12 @@ aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte i
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Cafe Kopfbau der HTW Berlin\
+Café Wilheminchen der HTW Berlin\
 Gebäude B, Kopfbau, Raum B 209\
 Wilhelminenhofstraße 75A\
 12459 Berlin
 
-E-Mail: cafe@students-htw.de
+E-Mail: wilhelminchen@students-htw.de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke
 und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.

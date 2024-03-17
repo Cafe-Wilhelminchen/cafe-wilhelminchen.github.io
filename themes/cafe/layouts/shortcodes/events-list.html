@@ -4,7 +4,9 @@
         <div class="event">
             {{ if isset . "image" }}
             <div class="event-image">
-                <img src="{{- .image -}}" alt="event image">
+                <a href="={{- .imagelink -}}">
+                    <img src="{{- .image -}}" alt="event image">
+                </a>
             </div>
             {{ end }}
             <div class="event-info">
@@ -15,6 +17,7 @@
                             <use xlink:href="images/icons.svg#calendar"/>
                         </svg>
                         {{- .datetime -}}
+                        {{- .location -}}
                     </li>
                 </ul>
                 <p>{{- .description -}}</p>

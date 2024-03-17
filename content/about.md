@@ -1,15 +1,13 @@
 +++
-title = "Café Kopfbau"
+title = "Café Wilhelminchen"
 main = true
 +++
 
-Das Café Kopfbau ist eine von Studierenden, ehrenamtlich geführte Eventlocation. Neben Eventorganisation und
--unterstützung
-sind wir DIE Infrastruktur für Feiern aller Art auf dem Campus WH der HTW Berlin. Gerne helfen wir Dir bei Fragen rund
-um Veranstaltungen weiter und möchten nichts Geringeres als:
+Das Café Wilheminchen ist eine von Studierenden, ehrenamtlich geführtes Café bzw. eine paar. Neben Eventorganisation und -unterstützung wir bieten eine Öffnung 
+oder Vermietung des Café für Feiern aller Art auf dem Campus WH der HTW Berlin ab. Gerne helfen wir Dir bei Fragen rund um Veranstaltungen weiter und möchten
+nichts Geringeres als:
 
-- den Bierpreis senken,
-- Dein bester Freund sein und
-- die beste Bar der Umgebung werden.
-
-Komm vorbei, wir freuen uns auf Dich!
+- Genussvollen Café anbieten,
+- Getränke zum Studi-Preis gewährleisten,
+- Deine Studi-Bar der Umgebung sein und,
+- Dein Studi-Club für Raves Kopfbau sein.

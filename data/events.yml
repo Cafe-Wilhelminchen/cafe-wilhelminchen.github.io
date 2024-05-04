@@ -1,23 +1,9 @@
-- name: Christmas Party - WiSe 2023/24
-  datetime: Do. 21.12.2023, ab 20 Uhr
+- name: Wilhelminchen Summerparty (Openair?)
+  datetime: Fr. 16.06.2024, to be announced
   location: Campus WH, Café Wilheminchen (Gebäude B.KB 2.OG)
-  description: Zum Abschluss des Jahres und zur Neugründung des Café-Teams veranstalten wir einen kleine Weihnachtsfeier. Mit Techno-Rave im blauen Salon und Chillout-Lounge im roten Salon.
-  imagelink: https://www.instagram.com/p/C01gtZdNUiQ/
-  image: images/2013-12-christmas-party.jpg
-
-- name: Semester-Closing-Party WiSe 2023/24
-  datetime: Fr. 16.02.2024, ab 20 Uhr
-  location: Campus WH, Café Wilheminchen (Gebäude B.KB 2.OG)
-  description: Zum Abschluss des Semester wollen wir euch wieder für gute Gesellschaft und zum Raven bei uns sehen. Ihr seid herzlichst eingeladen.
-  imagelink: https://www.instagram.com/p/C2-LeVZNLnf/
-  image: images/2024-02-semester-closing-party.jpg
-
-- name:  BBQ zum Start des Sommersemester 2024
-  datetime: Fr. 02.04.2024, ab 12 Uhr
-  location: Campus WH, Wiese neben dem H Gebäude
-  description: Für alle Erstis gibts es von uns kostenloses BBQ, finanziert durch Semsterbeiträge. Wir freuen uns natürlich trotzdem über ein paar spenden. :)
-  imagelink: https://www.instagram.com/p/C5Gt-a2Cbwt/
-  image: images/2024-04-wilhelminchenBBQ.jpg
+  description: Wir wollen mit euch zusammen den Sommer feiern und versuchen dafür ein Openair im Innenhofe des Campus WH zu organisieren. :)
+  imagelink: https://www.instagram.com/cafebar_wilhelminchen/
+  image: images/2024-06-summerparty.jpg
 
 - name: Ersti-Party Sommersemester 2024
   datetime: Fr. 05.04.2024, ab 20 Uhr
@@ -26,9 +12,23 @@
   imagelink: https://www.instagram.com/p/C5Gt-a2Cbwt/
   image: images/2024-04-erstiparty.jpg
 
-- name: Wilhelminchen Summerparty (Openair?)
-  datetime: Fr. 16.06.2024, to be announced
+- name:  BBQ zum Start des Sommersemester 2024
+  datetime: Fr. 02.04.2024, ab 12 Uhr
+  location: Campus WH, Wiese neben dem H Gebäude
+  description: Für alle Erstis gibts es von uns kostenloses BBQ, finanziert durch Semsterbeiträge. Wir freuen uns natürlich trotzdem über ein paar spenden. :)
+  imagelink: https://www.instagram.com/p/C5Gt-a2Cbwt/
+  image: images/2024-04-wilhelminchenBBQ.jpg
+
+- name: Semester-Closing-Party WiSe 2023/24
+  datetime: Fr. 16.02.2024, ab 20 Uhr
   location: Campus WH, Café Wilheminchen (Gebäude B.KB 2.OG)
-  description: Wir wollen mit euch zusammen den Sommer feiern und versuchen dafür ein Openair im Innenhofe des Campus WH zu organisieren. :)
-  imagelink: https://www.instagram.com/cafebar_wilhelminchen/
-  image: images/2024-06-summerparty.jpg
+  description: Zum Abschluss des Semester wollen wir euch wieder für gute Gesellschaft und zum Raven bei uns sehen. Ihr seid herzlichst eingeladen.
+  imagelink: https://www.instagram.com/p/C2-LeVZNLnf/
+  image: images/2024-02-semester-closing-party.jpg
+
+- name: Christmas Party - WiSe 2023/24
+  datetime: Do. 21.12.2023, ab 20 Uhr
+  location: Campus WH, Café Wilheminchen (Gebäude B.KB 2.OG)
+  description: Zum Abschluss des Jahres und zur Neugründung des Café-Teams veranstalten wir einen kleine Weihnachtsfeier. Mit Techno-Rave im blauen Salon und Chillout-Lounge im roten Salon.
+  imagelink: https://www.instagram.com/p/C01gtZdNUiQ/
+  image: images/2013-12-christmas-party.jpg

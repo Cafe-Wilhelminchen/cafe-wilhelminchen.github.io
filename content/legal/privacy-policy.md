@@ -69,7 +69,7 @@ aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte i
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Café Wilheminchen der HTW Berlin\
+Cafébar Wilheminchen der HTW Berlin\
 Gebäude B, Kopfbau, Raum B 209\
 Wilhelminenhofstraße 75A\
 12459 Berlin

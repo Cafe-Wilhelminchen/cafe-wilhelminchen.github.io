@@ -5,7 +5,7 @@ weight = 1
 
 ## Inhaltsverantwortlichkeit
 
-Cafe Kopfbau der HTW Berlin\
+Cafébar Kopfbau der HTW Berlin\
 Gebäude B, Kopfbau, Raum B 209\
 Wilhelminenhofstraße 75A\
 12459 Berlin

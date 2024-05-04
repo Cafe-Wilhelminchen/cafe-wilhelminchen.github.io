@@ -1,10 +1,10 @@
 +++
-title = "Café Wilhelminchen"
+title = "Cafébar Wilhelminchen"
 main = true
 +++
 
-Das Café Wilheminchen ist eine von Studierenden, ehrenamtlich geführtes Café bzw. eine paar. Neben Eventorganisation und -unterstützung wir bieten eine Öffnung 
-oder Vermietung des Café für Feiern aller Art auf dem Campus WH der HTW Berlin ab. Gerne helfen wir Dir bei Fragen rund um Veranstaltungen weiter und möchten
+Das Cafébar Wilheminchen ist eine von Studierenden, ehrenamtlich geführtes Café bzw. eine Bar. Neben Eventorganisation und -unterstützung wir bieten eine Öffnung 
+oder Vermietung der Cafébar für Feiern aller Art auf dem Campus WH der HTW Berlin ab. Gerne helfen wir Dir bei Fragen rund um Veranstaltungen weiter und möchten
 nichts Geringeres als:
 
 - Genussvollen Café anbieten,

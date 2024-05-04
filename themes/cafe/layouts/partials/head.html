@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Café Kopfbau &ndash; HTW Berlin</title>
+    <title>Café Wilhelminchen &ndash; HTW Berlin</title>
     {{ $scss := resources.Get "/scss/main.scss" }}
     {{ $style := $scss | resources.ToCSS | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}"/>

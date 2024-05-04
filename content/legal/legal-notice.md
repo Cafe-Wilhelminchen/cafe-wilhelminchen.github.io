@@ -10,7 +10,7 @@ Gebäude B, Kopfbau, Raum B 209\
 Wilhelminenhofstraße 75A\
 12459 Berlin
 
-E-Mail-Adresse: cafe@students-htw.de
+E-Mail-Adresse: wilhelminchen@students-htw.de
 
 Vertretungsberechtigt: Sebastian Pütz
 
@@ -34,4 +34,4 @@ Kontaktdaten verfügbar unter: https://www.students-htw.de/impressum/
 
 Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Onlineprofile:
 
-* https://www.instagram.com/cafe_wilhelminchen/
+* https://www.instagram.com/cafebar_wilhelminchen/
